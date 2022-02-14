@@ -226,7 +226,7 @@ h1.sub-title { font-size: 3em; }
 /* ==========================================================================
 Hero
 ========================================================================== */
-.hero { background: #000 url('../img/0ce2e4e521640126.png') no-repeat top center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; padding: 65px 0 300px 0; height: 100vh; }
+.hero { background: #000 url('../img/logo.png') no-repeat top center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; padding: 65px 0 300px 0; height: auto; }
 .hero h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { letter-spacing: 1px; }
