@@ -215,13 +215,12 @@ Custom Global Styles
 ========================================================================== */
 .category-icon { width: 50px; background: #000;}
 h1.sub-title { font-size: 3em; }
-img.downarrow { color: #eee; width: 3vh; display: block; margin-top: 5vh; margin-left: auto; margin-right: auto;}
+img.downarrow { color: #eee; width: 3vh; display: block; margin-left: auto; margin-right: auto;}
 
 /* ==========================================================================
 Hero
 ========================================================================== */
-.hero {background: #000;}
-.top-image { background: #000 url('../img/logo.png') no-repeat top center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; padding: 65px 0 300px 0; height: 90vh; }
+.hero {background: #000; }
 .hero h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { letter-spacing: 1px; }
